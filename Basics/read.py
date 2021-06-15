@@ -1,7 +1,7 @@
 import cv2 as cv
 
 #Read image
-# img = cv.imread('media/cat1.jpg')
+# img = cv.imread('../media/cat1.jpg')
 
 #Display image
 # cv.imshow('Cat', img)
